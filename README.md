@@ -1,0 +1,2 @@
+# bugReport
+a platform game
