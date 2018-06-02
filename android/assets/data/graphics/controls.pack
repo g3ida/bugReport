@@ -1,0 +1,61 @@
+
+controls.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jump
+  rotate: false
+  xy: 1, 601
+  size: 420, 252
+  orig: 420, 252
+  offset: 0, 0
+  index: -1
+jumps
+  rotate: false
+  xy: 1, 347
+  size: 420, 252
+  orig: 420, 252
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 423, 601
+  size: 296, 252
+  orig: 296, 252
+  offset: 0, 0
+  index: -1
+rights
+  rotate: false
+  xy: 1, 93
+  size: 296, 252
+  orig: 296, 252
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 423, 347
+  size: 292, 252
+  orig: 292, 252
+  offset: 0, 0
+  index: -1
+lefts
+  rotate: false
+  xy: 721, 601
+  size: 292, 252
+  orig: 292, 252
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 1, 1
+  size: 227, 90
+  orig: 227, 90
+  offset: 0, 0
+  index: -1
+restarts
+  rotate: false
+  xy: 299, 255
+  size: 227, 90
+  orig: 227, 90
+  offset: 0, 0
+  index: -1

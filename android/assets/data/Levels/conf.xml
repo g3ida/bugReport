@@ -1,0 +1,185 @@
+<levels>
+	<level
+		id = "1"
+	>
+	</level>
+	
+	<level
+		id = "2"
+	>
+	</level>
+		
+	<level
+		id = "3"
+	>
+	</level>
+	
+	<level
+		id = "4"
+		buggyJump  = "true"
+	>
+	</level>
+	
+	
+	<level
+		id = "5"
+	>
+	</level>
+	
+	
+	<level
+		id = "6"
+	>
+	</level>
+	
+	
+	<level
+		id = "7"
+	>
+	</level>
+	
+	<level
+		id = "8"
+		infiniteWalk = "true"
+	>
+	</level>
+	
+	<level
+		id = "9"
+	>
+	</level>
+	
+	<level
+		id = "10"
+		flippedWorldH = "true"
+		flippedWorldW = "true"
+	>
+	</level>
+	
+	
+	<level
+		id = "11"
+	>
+	</level>
+	
+	
+	<level
+		id = "12"
+	>
+	</level>
+	
+	<level
+		id = "13"
+		drawError = "true"
+	>
+	</level>
+	
+	<level
+		id = "14"
+		drawLag = "true"
+		timelag = "0.07"
+	>
+	</level>
+	
+	<level
+		id = "15"
+		drawLag = "true"
+		timelag = "0.15"
+	>
+	</level>
+	
+	<level
+		id = "16"
+		gameSpeed = "2"
+	>
+	</level>
+	
+	<level
+		id = "17"
+		winCrash = "true"
+	>
+	</level>
+	
+	<level
+		id = "18"
+		flippedWorldH = "true"
+		flippedWorldW = "true"
+	>
+	</level>
+	
+	<level
+		id = "19"
+	>
+	</level>
+	
+	<level
+		id = "20"
+		drawX = "true"
+	>
+	</level>
+	
+	<level
+		id = "21"
+		randomPositionX = "true"
+	>
+	</level>
+	
+	<level
+		id = "22"
+		gravityReversed = "true"
+
+	>
+	</level>
+	
+		
+	<level
+		id = "23"
+		timeout = "3.5"
+
+	>
+	</level>
+	
+	<level
+		id = "24"
+		>
+	</level>
+	
+		<level
+		id = "25"
+		randombatchColor = "true"
+
+		>
+	</level>
+	
+		<level
+		id = "26"
+		restartAndJumpReversed = "true"
+		>
+	</level>
+	
+		<level
+		id = "27"
+		playerOffsetX = "150"
+		playerOffsetY = "-30"
+		>
+	</level>
+
+	<level
+		id = "28"
+		restartFixedBox = "true"
+		>
+	</level>
+	
+		<level
+		id = "29"
+		>
+	</level>
+	
+		<level
+		id = "30"
+		randomGameSpeed = "true"
+		>
+	</level>
+	
+	
+</levels>

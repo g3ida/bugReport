@@ -1,0 +1,26 @@
+
+ads.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+noads
+  rotate: false
+  xy: 1, 47
+  size: 840, 198
+  orig: 840, 198
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 843, 152
+  size: 175, 93
+  orig: 175, 93
+  offset: 0, 0
+  index: -1
+pt
+  rotate: false
+  xy: 1, 1
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

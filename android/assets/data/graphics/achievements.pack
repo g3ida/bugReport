@@ -1,0 +1,115 @@
+
+achievements.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 903
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 796
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1, 689
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 582
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 475
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 368
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 261
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 154
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 47
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+achiev
+  rotate: false
+  xy: 635, 961
+  size: 338, 47
+  orig: 338, 47
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 1, 1
+  size: 171, 44
+  orig: 171, 44
+  offset: 0, 0
+  index: -1
+plusDiamond
+  rotate: false
+  xy: 635, 907
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+
+achievements2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 1, 215
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 108
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 1
+  size: 632, 105
+  orig: 632, 105
+  offset: 0, 0
+  index: -1
